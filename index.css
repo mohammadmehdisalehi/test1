@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;500;600;700&display=swap');
 :root{
   --bl:#239BD8;
+  --gc:#A1A1A1;
 }
 .cont
 {
@@ -22,8 +23,12 @@ max-width: 1920px;
  
 }
 .pad2{
-  padding-right:8rem;
+  padding-right:2rem;
 }
+.mar1{
+  margin-top: 38rem;
+}
+
 .fnt-48
 {
 font-size: 4.8rem;  
@@ -56,7 +61,30 @@ font-size: 3.6rem;
   width: 42.7rem;
   background: var(--bl);
 }
-/* .w-30
+.w-30
 {
 width: 40%;
-} */
+}
+.cardc
+{
+  background-color: #F6F9FF;
+  border: 0.1rem;
+  border-style: solid;
+  border-color: rgb(231, 231, 231);
+  /* height:54.2rem; */
+  border-radius: 1rem;
+}
+.cg{
+  color:#1E9781;
+}
+
+.gap-c
+{
+  gap:4rem;
+}
+.colorg{
+ color: #A1A1A1;
+}
+.mar2{
+  margin-top: 12rem;
+}
