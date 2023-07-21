@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;500;600;700&display=swap');
+:root{
+  --bl:#239BD8;
+}
+.cont
+{
+max-width: 1920px;
+}
+
+.bg-blue{
+  background-color: var(--bl);
+  height: 14.3rem;
+}
+.pad0
+{
+  padding-top: 2.6rem;
+ 
+}
+
+.pad1{
+  padding-left: 11.1rem;
+ 
+}
+.pad2{
+  padding-right:8rem;
+}
+.fnt-48
+{
+font-size: 4.8rem;  
+}
+.fnt-24
+{
+font-size: 2.4rem;  
+}
+
+.line1
+{
+  height: 0.1rem;
+  width: 42.7rem;
+  background: white;
+}
